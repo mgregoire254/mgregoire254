@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://mikegregoire.me/](http://mikegregoire.me/)
 
-- 📫 How to reach me **mgregoire254@gmail.com**
+- 📫 How to reach me **mike@mikegregoire.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
