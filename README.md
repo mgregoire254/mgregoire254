@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Gregoire</h1>
-<h3 align="center">Computer Science Student and Future Developer</h3>
+<h3 align="center">Computer Science Student and Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/mikegregoire254" target="blank"><img src="https://img.shields.io/twitter/follow/mikegregoire254?logo=twitter&style=for-the-badge" alt="mikegregoire254" /></a> </p>
 
